@@ -29,12 +29,13 @@ A software orchestration foundation for welding-job configuration analysis. Impl
 **Evidence:** [Code and reproducible tests](https://github.com/mayureshcode/weld-x) · [Architecture](https://github.com/mayureshcode/weld-x/blob/main/docs/architecture.md) · [Test logs](https://github.com/mayureshcode/weld-x/tree/main/evidence)  
 **Status:** Orchestration tested locally. Robot-motion simulation, MoveIt/ROS integration and physical validation are **not yet verified**.
 
-#### Autonomous Warehouse Surveillance UGV — ROS 2 simulation project
+#### [Autonomous Warehouse Surveillance UGV](https://github.com/mayureshcode/warehouse-surveillance-robot) — ROS 2 simulation project
 **ROS 2 Jazzy · Gazebo Harmonic · URDF/Xacro · GLIM / Nav2 architecture**
 
 Adapted a surveillance rover software base for a warehouse scenario, integrating warehouse and rover visual assets into a Gazebo simulation workspace. The broader architecture includes LiDAR-inertial SLAM, Nav2, mission controls and safety monitoring.
 
-**Status:** Warehouse assets integrated; collision, sensor and end-to-end navigation validation are pending. The working repository is private while the publication scope is reviewed.
+**Repository:** [Warehouse Surveillance Robot](https://github.com/mayureshcode/warehouse-surveillance-robot) *(private — access requires permission).*  
+**Status:** Warehouse assets integrated; collision, sensor and end-to-end navigation validation are pending. The publication scope is under review.
 
 #### Robot Health Monitoring — ROS 2 telemetry
 **ROS 2 · Python · Publish/subscribe**
