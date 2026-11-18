@@ -1,53 +1,90 @@
-# Hi, I'm Mayuresh Shastri 👋
+<div align="center">
 
-**Robotics Software | ROS 2 | Autonomous Navigation | Simulation**
+# Mayuresh Shastri
 
-I'm a Robotics & Automation Engineering student based in Pune, India, with hands-on experience developing robotics software and simulation workflows. I'm currently a **Robotics Software Developer Intern at SiteRobotics**, working on autonomous surveillance rover software.
+**Robotics Software · Autonomous Navigation · ROS 2 · Simulation**
 
-My interests include autonomous mobile robots, SLAM and localization, robot navigation, simulation, and diagnostic software.
+B.E. Robotics & Automation | Pune, India  
+Robotics Software Developer Intern at **SiteRobotics**
 
-## Technical toolkit
+[LinkedIn](https://www.linkedin.com/in/mayuresh-shastri-66b564201/) · [Repositories](https://github.com/mayureshcode?tab=repositories) · [Email](mailto:mayuresh4824@gmail.com)
 
-- **Programming:** Python, C++, Bash
-- **Robotics:** ROS 2, Nav2, TF2, URDF/Xacro, SLAM, localization, robot kinematics
-- **Simulation & development:** Gazebo Harmonic, RViz2, Ubuntu/Linux, Git, GitHub
-- **Systems:** sensor integration, telemetry, robot health and command safety
-
-## Featured projects
-
-### [WELD-X — Robotic Welding Workflow Orchestration](https://github.com/mayureshcode/weld-x)
-A Python-based software foundation for evaluating robotic welding job configurations. It implements deterministic search and ranking, validation gates, recommendation approval, revalidation, an audit trail, and a local web dashboard.
-
-**Evidence:** [Source, tests, run instructions and documented limitations](https://github.com/mayureshcode/weld-x#readme)
-
-*Status: Software orchestration implemented and locally tested. ROS/MoveIt integration, robot-motion simulation and physical deployment remain unverified.*
-
-### Autonomous Warehouse Surveillance UGV
-A ROS 2 Jazzy / Gazebo Harmonic project adapting a surveillance rover software architecture to a warehouse environment, with a warehouse rover model, simulation world and planned integration of GLIM SLAM, Nav2 and a web dashboard.
-
-*Status: Warehouse visual assets integrated; collision, sensor and complete navigation validation pending. Public project evidence will be linked when ready.*
-
-### Robot Health Monitoring
-A ROS 2-based publisher/subscriber monitoring project focused on robot health telemetry, including reported temperature, motor and battery/power status monitoring.
-
-*Status: Repository and reproducible demonstration evidence to be published.*
-
-## Engineering experience
-
-**Robotics Software Developer Intern — SiteRobotics** · Aug 2026–Present
-
-Working on ROS 2-based surveillance robot simulation and integration, including navigation workflows, Gazebo environments, operator-facing mission planning and system validation. Hardware deployment and final acceptance are separate from simulation development.
-
-## Education
-
-**Bachelor of Engineering — Robotics & Automation**  
-Savitribai Phule Pune University · Expected 2027 · CGPA: 9.29/10
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/mayuresh-shastri-66b564201/)
-- [GitHub repositories](https://github.com/mayureshcode?tab=repositories)
+</div>
 
 ---
 
-*I value reproducible demonstrations, clear engineering documentation and honest reporting of what has—and has not—been validated.*
+### About me
+
+I build and integrate robotics software, with a focus on **autonomous mobile robots, navigation, simulation and diagnostic systems**. My work spans ROS 2 integration, Gazebo environments, robot state estimation, operator-facing tools and software validation.
+
+I'm interested in **Robotics Software Engineering, Autonomous Navigation and Robotics R&D**.
+
+### Selected projects
+
+#### [WELD-X](https://github.com/mayureshcode/weld-x) — Robotic welding workflow software
+**Python · Configuration validation · Search algorithms · Web UI · Testing**
+
+A software orchestration foundation for welding-job configuration analysis. Implements bounded placement search, validation gates, version-bound recommendations, approval and revalidation workflows, and an auditable local web console.
+
+**Evidence:** [Code and reproducible tests](https://github.com/mayureshcode/weld-x) · [Architecture](https://github.com/mayureshcode/weld-x/blob/main/docs/architecture.md) · [Test logs](https://github.com/mayureshcode/weld-x/tree/main/evidence)  
+**Status:** Orchestration tested locally. Robot-motion simulation, MoveIt/ROS integration and physical validation are **not yet verified**.
+
+#### Autonomous Warehouse Surveillance UGV — ROS 2 simulation project
+**ROS 2 Jazzy · Gazebo Harmonic · URDF/Xacro · GLIM / Nav2 architecture**
+
+Adapted a surveillance rover software base for a warehouse scenario, integrating warehouse and rover visual assets into a Gazebo simulation workspace. The broader architecture includes LiDAR-inertial SLAM, Nav2, mission controls and safety monitoring.
+
+**Status:** Warehouse assets integrated; collision, sensor and end-to-end navigation validation are pending. The working repository is private while the publication scope is reviewed.
+
+#### Robot Health Monitoring — ROS 2 telemetry
+**ROS 2 · Python · Publish/subscribe**
+
+A robot health-monitoring project covering reported temperature, motor status and battery/power telemetry through ROS 2 nodes.
+
+**Status:** Working implementation reported; public source and reproducible demonstration are being prepared.
+
+### Technical skills
+
+| Area | Tools and concepts |
+| --- | --- |
+| **Programming** | Python, C++, Bash, Linux |
+| **Robot software** | ROS 2, Nav2, TF2, URDF/Xacro, ROS messaging |
+| **Autonomy** | SLAM, localization, path planning, sensor fusion, waypoint navigation |
+| **Simulation** | Gazebo Harmonic, RViz2, robot modeling and integration |
+| **Engineering** | Git/GitHub, debugging, system integration, test documentation |
+
+### Experience
+
+**Robotics Software Developer Intern — SiteRobotics**  
+*August 2026 – Present*
+
+- Working on a ROS 2-based surveillance rover software stack and simulation environment.
+- Contributing to autonomous navigation integration, operator-defined waypoint planning, visual site-planning interfaces and system verification.
+- Collaborating on robot software interfaces, telemetry and safety-related integration.
+
+*Simulation development and verification are distinct from physical deployment and hardware acceptance.*
+
+### Research & competition development
+
+**SVANA — 12-DOF quadruped concept | Robofest Gujarat 5.0**
+
+Contributed to system concept, architecture, kinematics and competition documentation. The physical prototype was not started due to funding constraints.
+
+### Education & certifications
+
+**B.E., Robotics & Automation** — Savitribai Phule Pune University  
+Expected 2027 · **CGPA: 9.29 / 10**
+
+- **ROS 2** — Edouard Renard
+- **ROBOAI** — My Equation
+- **Advanced Python** — Angela Yu *(certificate title to be matched to issued credential)*
+
+---
+
+<div align="center">
+
+**Build · Test · Document · Improve**
+
+[Explore the code](https://github.com/mayureshcode?tab=repositories) · [Connect on LinkedIn](https://www.linkedin.com/in/mayuresh-shastri-66b564201/)
+
+</div>
